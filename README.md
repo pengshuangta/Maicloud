@@ -6,7 +6,7 @@
 ## 官网地址
 - [Maicloud Network（首选）](https://www.maicloud.vip) 
 - [Maicloud Network（备选）](https://maicloud.vip) 
-- 如果列表中某个地址失效，请提交Issues或联系管理员
+- 如果某个地址失效，请提交Issues或联系管理员
 
 ## 使用说明
 - [Windows 客户端](/help/windows.md)
@@ -21,19 +21,18 @@
 - 请从[Maicloud Network 官网](https://www.maicloud.vip) 内下载
 
 ## 常见问题
-- [服务器订阅](help/subscribe.md)
-- [网站无法访问](help/siteaccess.md)
-- [忘记账号密码](help/password.md)
-- [充值续费](help/pay.md)
-- [配置PAC模式](help/pac.md)
+- [服务器订阅](help/issues.md)
+- [网站无法访问](help/issues.md)
+- [忘记账号密码](help/issues.md)
+- [充值续费](help/issues.md)
+- [配置PAC模式](help/issues.md)
 
 
-
-如有其他疑问，请及时联系我们（Email：yyxkj2013@gmail.com / Telegram: t.me/maicloud000）  
+如有其他疑问，请及时联系我们（Email：yyxkj2013@gmail.com / Telegram: https://t.me/maicloud000）  
 和产品服务有关的问题请在网站内提交工单 
 
-本文发布时间：2019/06/10
-最新修改时间：2019/11/07
+本文发布时间：2019/06/10  
+最新修改时间：2019/11/07  
 
 ---
 
