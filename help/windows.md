@@ -28,8 +28,8 @@
 
 3. 全局模式下，访问国内网站仍然经过代理服务器，会导致访问国内网站速度非常慢，你可以选择下面方法中任意的一种：
     - 手动切换系统代理模式，访问国内网站使用直连模式，访问国外网站时用全局模式
-    - 使用PAC模式，PAC模式需要配合PAC文件使用，如果PAC模式无法使用，请重新下载PAC文件，[点击此处下载](https://static.maicloud.vip/download/pac.txt)，右键 → 另存为，将文件保存到软件文件夹内，**注意：不要在软件内更新PAC**
-    - 代理规则选择绕过局域网和大陆，此规则需要配合chn_ip.txt文件使用，如果无法使用，请重新下载chn_ip.txt文件，[点击此处下载](https://static.maicloud.vip/download/chn_ip.txt)，右键 → 另存为，将文件保存到软件文件夹内
+    - 使用PAC模式，PAC模式需要配合PAC文件使用，软件自带，如果PAC模式无法使用，请重新下载PAC文件，[点击此处下载](https://static.maicloud.vip/download/pac.txt)，右键 → 另存为，将文件保存到软件文件夹内，**注意：不要在软件内更新PAC**
+    - 代理规则选择绕过局域网和大陆，此规则需要配合chn_ip.txt文件使用，软件自带，如果无法使用，请重新下载chn_ip.txt文件，[点击此处下载](https://static.maicloud.vip/download/chn_ip.txt)，右键 → 另存为，将文件保存到软件文件夹内
 
 4. 软件默认提供的本地代理（配置Tor，Telegram等软件时需要）
     > 地址：127.0.0.1  
