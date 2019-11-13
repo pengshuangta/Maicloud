@@ -18,7 +18,8 @@
 - [**图片版教程**](https://www.maicloud.vip/user/announcement)
 
 ## 软件下载
-- 请从[Maicloud Network 官网](https://www.maicloud.vip) 内下载
+- [获取客户端](/download)
+- 前往[Maicloud下载中心]()
 
 ## 常见问题
 - [服务器订阅](help/issues.md)
