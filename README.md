@@ -15,7 +15,6 @@
 - [macOS 客户端](help/macos.md)
 - [Windows 游戏端](help/sstap.md)
 - [路由器端](help/router.md)
-- [**图片版教程**](https://www.maicloud.vip/user/announcement)
 
 ## 软件下载
 - [获取客户端](/download)
