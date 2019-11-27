@@ -11,7 +11,7 @@
 如果某个地址失效，请提交Issues或联系管理员
 
 ## 软件使用
-- [Windows 客户端](/help/windows.md)
+- [Windows 客户端](help/windows.md)
 - [iOS 客户端](help/ios.md)
 - [Android 客户端](help/android.md)
 - [macOS 客户端](help/macos.md)
@@ -19,8 +19,8 @@
 - [路由器端](help/router.md)
 
 ## 软件下载
-- [客户端下载](/download/README.md)
-- [常用软件下载](/download/README.md)
+- [客户端下载](download/README.md)
+- [常用软件下载](download/README.md)
 
 ## 常见问题
 - [服务器订阅](issues/subscribe.md)
@@ -35,7 +35,7 @@
 - Email: yyxkj2013@gmail.com
 - Telegram: [@maicloud000](https://t.me/maicloud000)
 - [Maicloud 客服系统（工单系统）](https://ticket.maicloud.cc)  
-
++
 
 本文发布时间：2019/06/10  
 最新修改时间：2019/11/28 
