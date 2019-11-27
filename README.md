@@ -20,7 +20,8 @@
 - [路由器端](help/router.md)
 
 ## 软件下载
-- [下载客户端](/download/README.md)
+- [客户端下载](/download/client/README.md)
+- [常用软件下载](/download/software/README.md)
 
 ## 常见问题
 - [服务器订阅](help/issues.md)
@@ -29,8 +30,8 @@
 - [充值续费](help/issues.md)
 - [配置PAC模式](help/issues.md)
 
-
-如有其他疑问，请及时联系我们
+## 联系方式
+如果你对我们的服务有任何疑问或建议，请及时联系我们：
 - Email：yyxkj2013@gmail.com
 - Telegram: [@maicloud000](https://t.me/maicloud000)
 - [Maicloud 客服系统（工单系统）](https://ticket.maicloud.cc)  
@@ -40,4 +41,5 @@
 
 ---
 
-IDCloud 2017-2018 & [Maicloud Network](https://www.maicloud.cc)  2018-2019
+IDCloud 2017-2018 & [Maicloud Network](https://www.maicloud.cc)  2018-2019  
+Maicloud网络技术研究中心
