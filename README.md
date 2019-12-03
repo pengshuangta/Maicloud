@@ -3,7 +3,7 @@
 欢迎使用Macloud网络帮助中心！这里提供官网的最新地址，客户端的使用方法及常见问题的解决方法  
 由于不某些不可抗因素，现有官网地址可能无法访问，请收藏本仓库网址<https://github.com/yyxkj2013/Maicloud> 获取最新地址
 
-## 常用地址
+## 最新地址
 - [Maicloud Network（首选）](https://www.maicloud.cc) 
 - [Maicloud Network（备选）](https://maicloud.vip) 
 - [Maicloud 客服系统（工单系统）](https://ticket.maicloud.cc)  
