@@ -3,10 +3,14 @@
 欢迎使用Macloud网络帮助中心！这里提供官网的最新地址，客户端的使用方法及常见问题的解决方法  
 由于不某些不可抗因素，现有官网地址可能无法访问，请收藏本仓库网址<https://github.com/yyxkj2013/Maicloud> 获取最新地址
 
+在使用Maicloud网络加速服务时，我们建议您使用一些现代化的浏览器，以获得更好的体验  
+（Chrome，Firefox，~~IE浏览器~~，~~360浏览器~~，~~其他乱七八糟的国产浏览器~~)
+
 ## 最新地址
 - [Maicloud Network（首选）](https://www.maicloud.cc) 
 - [Maicloud Network（备选）](https://maicloud.vip) 
 - [Maicloud 客服系统（工单系统）](https://ticket.maicloud.cc)  
+- [客服邮箱：yyxkj2013@gmail.com](yyxkj2013@gmail.com)
 
 如果某个地址失效，请提交Issues或联系管理员
 
@@ -35,7 +39,6 @@
 - Email: yyxkj2013@gmail.com
 - Telegram: [@maicloud000](https://t.me/maicloud000)
 - [Maicloud 客服系统（工单系统）](https://ticket.maicloud.cc)  
-+
 
 本文发布时间：2019/06/10  
 最新修改时间：2019/11/28 
