@@ -6,7 +6,7 @@
 ## 下载和安装
 1. 注册后登陆 [Maicloud Network 官网](http://www.maicloud.cc/)，在用户中心页面复制 **订阅地址**
 
-2. [点击此处下载ShadowsocksR客户端](https://static.maicloud.me/download/ssr.apk) 并安装，安装完毕后打开软件即可
+2. [点击此处下载ShadowsocksR客户端](https://static.maicloud.vip/download/ssr.apk) 并安装，安装完毕后打开软件即可
 
 ## 配置服务器订阅
 2. 启动软件，点击左上角的 **shadowsocks R ▼**进入节点列表
