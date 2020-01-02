@@ -1,7 +1,7 @@
-# [Maicloud 帮助中心](https://github.com/yyxkj2013/Maicloud)
+ # [Maicloud 帮助中心](https://github.com/yyxkj2013/Maicloud)
 
-欢迎使用Macloud网络加速！这里提供官网的最新地址，客户端的使用方法及常见问题的解决方法   
-**由于某墙采用各种手段检测国际流量，并对某些域名进行DNS污染，请收藏本仓库网址获取最新官网地址：**  
+欢迎使用 Macloud 网络加速！这里提供官网的最新地址，客户端的使用教程及常见问题的解决方法   
+**由于某墙采用各种手段检测国际流量，并对某些域名进行DNS污染，请收藏本页网址获取最新官网地址：**  
 - <https://github.com/yyxkj2013/Maicloud>
 
 在使用Maicloud网络加速服务时，我们建议您使用一些现代化的浏览器，以获得更好的体验    
@@ -25,25 +25,27 @@
 - [路由器端](help/router.md)
 
 ## 软件下载
-- [客户端下载](https://github.com/yyxkj2013/Maicloud/tree/master/download)
-- [常用软件下载](https://github.com/yyxkj2013/Maicloud/tree/master/download)
+- 请登录网站后下载
 
 ## 联系方式
 如果你对我们的服务有任何疑问或建议，请及时联系我们：
-- Email: yyxkj2013@gmail.com  
+- Email: admin@maicloud.cc  
 - Telegram: [@maicloud000](https://t.me/maicloud000)  
 - 更多联系方式可在官网内查看  
 
 ## 其他服务
-- 网站托管：我们提供纯静态，PHP，以及Docker网站的托管，提供免费的二级域名（联系管理员） 
-- [Maicloud WebVPN (免费服务)](https://www.maicloud.cc/user/webvpn)  
-- IPv6节点：本站提供 IPv4/6 双栈网络接入，但是IPv6节点有可能速度较慢（联系管理员）  
+- 网站托管：我们提供纯静态/PHP网站的免费托管，提供免费的二级域名（idc.maicloud.cc） 
+- [Maicloud Web代理 (免费服务)](https://www.maicloud.cc/user/webvpn)  
+- IPv6节点：本站提供 IPv4/6 双栈网络接入，但是IPv6节点有可能速度较慢（如有需要请联系管理员）  
+
+## 重要说明
+Maicloud 仅对个人提供 IP 流量加速服务，网络加速服务基于开源软件 ShadowsocksR，Maicloud 不提供任何以 VPN 协议为基础的服务  
+禁止将我们的服务用于任何违法活动中，禁止使用我们的服务传播违法内容！**如有发现，后果严重**  
 
 本文发布时间：2019/06/10 
-最新修改时间：2019/12/18 
-请勿将本站服务用于非法用途，否则后果自负
+最新修改时间：2020/01/03 
 
 ---
 
-IDCloud 2017-2018 & [Maicloud Network](https://www.maicloud.cc)  2018-2019  
+IDCloud 2017-2018 & [Maicloud Network](https://www.maicloud.cc)  2018-2020  
 Maicloud 网络技术研究中心
