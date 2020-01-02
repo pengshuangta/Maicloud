@@ -3,10 +3,4 @@
 ## 下载中心
 [返回首页](/README.md)
 
-### Windows客户端
-
-#### ShdowsocksR
-#### SSTap
-#### Netchx
-
-### iOS客户端
+### 请登录网站后下载
