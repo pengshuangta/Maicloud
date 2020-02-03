@@ -8,11 +8,8 @@
 （Chrome，Firefox，~~IE浏览器~~，~~360浏览器~~，~~其他乱七八糟的国产浏览器~~)
 
 ## 最新地址
-- [**Maicloud Network 官网（首选）**](https://www.maicloud.cc) 
-- [Maicloud Network 官网（备选）](https://maicloud.vip) 
-- [Maicloud WebVPN (免费服务)](https://www.maicloud.cc/user/webvpn)  
-- [管理员邮箱：admin@maicloud.cc](mailto:admin@maicloud.cc)  
-- [客服邮箱：yyxkj2013@gmail.com](mailto:yyxkj2013@gmail.com)  
+- [**Maicloud Network 官网（首选）**](https://www.maicloud.info) 
+- [Maicloud Network 官网（备选）](https://maicloud.info) 
 
 如果某个地址失效，请提交Issues或联系管理员
 
@@ -33,10 +30,6 @@
 - Telegram: [@maicloud000](https://t.me/maicloud000)  
 - 更多联系方式可在官网内查看  
 
-## 其他服务
-- 网站托管：我们提供纯静态/PHP网站的免费托管，提供免费的二级域名（idc.maicloud.cc） 
-- [Maicloud Web代理 (免费服务)](https://www.maicloud.cc/user/webvpn)  
-- IPv6节点：本站提供 IPv4/6 双栈网络接入，但是IPv6节点有可能速度较慢（如有需要请联系管理员）  
 
 ## 重要说明
 Maicloud 仅对个人提供 IP 流量加速服务，网络加速服务基于开源软件 ShadowsocksR，Maicloud 不提供任何以 VPN 协议为基础的服务  
@@ -47,5 +40,5 @@ Maicloud 仅对个人提供 IP 流量加速服务，网络加速服务基于开�
 
 ---
 
-IDCloud 2017-2018 & [Maicloud Network](https://www.maicloud.cc)  2018-2020  
+IDCloud 2017-2018 & [Maicloud Network](https://www.maicloud.info)  2018-2020  
 Maicloud 网络技术研究中心
