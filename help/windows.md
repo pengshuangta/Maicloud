@@ -4,11 +4,10 @@
 [返回首页](/README.md)
 
 ## 下载和安装
-1. 注册后登陆 [Maicloud Network 官网](http://www.maicloud.cc/)，在用户中心页面复制 **订阅地址**
+1. 注册后登陆 [Maicloud Network 官网](http://www.maicloud.info)(http://www.maicloud.info)，在用户中心页面复制 **订阅地址**
 
-2. 下载 [Windows版客户端](https://static.maicloud.vip/download/ssr.zip) 
-并解压缩 
-（解压全部文件到同一个文件夹，不要再压缩包内直接打开软件）
+2. 在用户中心内下载客户端并解压缩 
+（解压全部文件到同一个文件夹内（ssr-win），不要再压缩包内直接打开软件）
 3. 运行ShadowsocksR-dotnet4.0.exe（老系统请运行ShadowsocksR-dotnet2.0.exe）
 
 ## 配置服务器订阅
@@ -42,7 +41,7 @@
 删除软件，然后重新下载客户端，配置服务器订阅  
 尝试使用网站内提供的备用订阅地址  
 重置订阅地址，并通过新订阅地址配置订阅
-如果仍然无法解决，请[联系客服](https://ticket.maicloud.cc)
+如果仍然无法解决，请联系客服
 
 ## 注意事项
 1. ShadowsocksR，简称SSR
@@ -60,4 +59,4 @@
     > 端口：1080  
     > 类型：SOCKS5  
 
-6. 如有其他问题请[联系客服](https://ticket.maicloud.cc)
+6. 如有其他问题请联系客服
