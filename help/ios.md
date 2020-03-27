@@ -9,10 +9,10 @@
 
 ## 配置服务器订阅
 
-1. 登陆 [Maicloud Network 官网](http://www.maicloud.cc/)，在用户中心点击 iOS → 小火箭一键订阅 （**使用Safari浏览器**）
+1. 登陆 [Maicloud Network 官网](http://www.maicloud.info/)，在用户中心点击 iOS → 小火箭一键订阅 （**使用Safari浏览器**），如果网站被Safari浏览器拦截，请点击 **高级** - **访问这个不安全的网站**
 
 2. 如果点击小火箭一键订阅后没有反应，你可以手动配置订阅：  
-登陆 [Maicloud Network 官网](http://www.maicloud.cc/)，复制订阅地址  
+登陆 [Maicloud Network 官网](http://www.maicloud.info/)，复制订阅地址  
 进入Shadowrocket，点击右上角加号
 类型选择Subscribe，URL粘贴复制的订阅，然后点击完成
 
@@ -27,7 +27,7 @@
 1. 如果你设置了启动时更新，软件会在每次启动时自动更新订阅
 
 2. 手动更新订阅的方法：
-点击服务器订阅地址（含有类似sub.maicloud.vip的东西）右侧按钮，然后点完成  
+点击服务器订阅地址（含有类似网址的东西）右侧按钮，然后点完成  
 
 3. 如果你的订阅无法更新，请删除所有的订阅和节点，然后重新配置订阅（**重置订阅**或者使用**备用订阅地址**）
 
@@ -43,7 +43,7 @@
 5. 如果遇到某些网站无法访问的情况，你可以把 **全局路由** 改成 **代理**  
 但是这样会造成访问国内网站速度变慢，浪费流量，耗电变多，建议在用完后改成 **配置**，或者断开连接（不要乱选择其他模式）
 
-5. 如有其他问题请[联系客服](https://ticket.maicloud.cc)
+5. 如有其他问题请联系客服
 
 如果不想用软件自带的配置文件，你可以选择：  
 国内用户访问海外：https://raw.githubusercontent.com/lhie1/Rules/master/Shadowrocket.conf  
