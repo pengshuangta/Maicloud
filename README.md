@@ -4,7 +4,7 @@
 
 ## 简介
 欢迎使用 Macloud 网络加速！请在使用前仔细阅读本教程。   
-**[由于某墙采用各种手段检测国际流量，并对某些域名进行DNS污染，请收藏本页网址获取最新官网地址：](https://github.com/yyxkj2013/Maicloud)**  
+**[由于某墙采用各种手段检测国际流量，并对某些域名进行DNS污染，请收藏本页或发送邮箱给管理员获取最新官网地址：](https://github.com/yyxkj2013/Maicloud)**  
 - <https://github.com/yyxkj2013/Maicloud>
 - [Telegram用户群](https://t.me/maicloud000):[@maicloud000](https://t.me/maicloud000)
 - Email: yyxkj2013@gmail.com
@@ -13,8 +13,9 @@
 （Chrome，Firefox，~~IE浏览器~~，~~360浏览器~~，~~其他乱七八糟的国产浏览器~~)
 
 ## 最新地址
-- [**Maicloud Network 官网 - 首页**](https://maicloud.io) 
-- [Maicloud Network 官网 - 登录页](https://www.maicloud.info/auth/login) 
+- [**Maicloud Network 官网 - 首页**](https://maicloud.io) <https://maicloud.io>
+- [Maicloud Network 官网 - 登录页](https://www.maicloud.info/auth/login) <https://www.maicloud.info>
+- [Maicloud Network 官网 - 登录页](https://www.maicloud.co/auth/login) <https://www.maicloud.co>
 
 如果某个地址失效，请提交Issues或联系管理员
 
@@ -37,7 +38,7 @@ Maicloud 仅对个人提供 IP 流量加速服务，网络加速服务基于开�
 [使用Maicloud前请阅读 TOS](https://www.maicloud.info/tos)  
 
 本文发布时间：2019/06/10 
-最新修改时间：2020/03/25 
+最新修改时间：2020/03/28  
 
 ---
 
